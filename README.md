@@ -1,2 +1,2 @@
-# Curriculo
- primeiro projeto html
+# Currículo
+ Primeiro projeto html
